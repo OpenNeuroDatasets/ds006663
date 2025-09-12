@@ -1,5 +1,5 @@
 {
-    "Name": "Longitudinal neuroimaging study of C3ar1tm1Cge/C3ar1tm1Cge mice",
+    "Name": "Adulthood in vivo MRI of C57BL6J mice: T1w, RARE T2w, PDw, MTw, DWI",
     "BIDSVersion": "1.10.1",
     "DatasetType": "raw",
     "License": "CC BY 4.0",
@@ -40,4 +40,5 @@
         "https://doi.org/10.1101/2025.04.24.650541",
         "Lemmik H, Kim E, MacNicol E, et al. Complement receptorC3ar1deficiency does not alter brain structure or functional connectivity across early life development. bioRxiv. Published online April 26, 2025:2025.04.24.650541. doi:10.1101/2025.04.24.650541"
     ]
+
 }
