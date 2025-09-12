@@ -5,15 +5,13 @@ doi: https://doi.org/10.1101/2025.04.24.650541
 
 ## Details related to access to the data
 
-CC BY licence
-
 -   [ ] Contact person
 
 Hanna Lemmik — hannalemmik@hotmail.com, ORCID 0000-0002-2708-9557
 
 ## Overview
 
--   [ ] Project ran in though spring, summer and autumn 2023
+Project ran in though spring, summer and autumn 2023
 
 Each mouse was scanned twice, once in adolescence between PND27-31 and once in adulthood at three months
 Adolescence: "PND30"
@@ -22,11 +20,11 @@ sessions.tsv included
 
 -   [ ] Brief overview of the tasks in the experiment
 
-Anatomy and diffusion scans in vivo followed by BOLD rsfMRI to locate synaptic pathology in C3ar1tm1Cge/C3ar1tm1Cge mouse model.
+Anatomy and diffusion scans in vivo followed by BOLD rsfMRI to locate synaptic pathology in C3ar1tm1Cge/tm1Cge mouse model (Humbles et al. 200)
 
 -   [ ] Description of the contents of the dataset
 
-C3ar1+/+ (wild type) N = 35, 17 males and 18 females; C3ar1tm1Cge/C3ar1tm1Cge N = 34, 18 males and 16 females. 
+C3ar1+/+ (wild type) N = 35, 17 males and 18 females; C3ar1tm1Cge/tm1Cge N = 34, 18 males and 16 females. 
 
 ## Methods
 
