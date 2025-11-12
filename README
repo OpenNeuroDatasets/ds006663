@@ -1,7 +1,5 @@
-This dataset contains the raw images and templates from Cohort 1 (scanned twice, once in adolescence between PND27-31 and once in adulthood at three months) of the manuscript:
-Complement receptor C3ar1 deficiency does not alter brain structure or functional connectivity across early life development
-Hanna Lemmik,  Eugene Kim,  Eilidh MacNicol,  Davide Maselli, Michel Bernanos, Zhuoni Li,  Dauda Abdullahi,  Esther Walters,  Maria Elisa Serrano Navacerrada,  Wuding Zhou,  Aleksandar Ivetic,  Diana Cash, Laura Westacott
-doi: https://doi.org/10.1101/2025.04.24.650541
+This dataset contains the raw images and templates from Cohort 1 (scanned twice, once in adolescence between PND27-31 and once in adulthood between PND81–92) of the manuscript:
+Hanna Lemmik, Eugene Kim, Eilidh MacNicol, Davide Maselli, Michel Bernanos, Zhuoni Li, Dauda Abdullahi, Esther Walters, Maria Elisa Serrano Navacerrada, Wuding Zhou, Aleksandar Ivetic, Diana Cash, Laura Westacott, Complement receptor C3ar1 deficiency does not alter brain structure or functional connectivity across early life development, Brain Communications, 2025; fcaf422, https://doi.org/10.1093/braincomms/fcaf422
 
 ## Details related to access to the data
 
@@ -11,16 +9,17 @@ Hanna Lemmik — hannalemmik@hotmail.com, ORCID 0000-0002-2708-9557
 
 ## Overview
 
-Project ran though spring, summer and autumn 2023
+The project ran though spring, summer and autumn 2023
 
-Each mouse was scanned twice, once in adolescence between PND27-31 and once in adulthood at three months
+Each mouse was scanned twice, once in adolescence between PND27-31 and once in adulthood between PND81–92
 Adolescence: "PND30"
 Adulthood: "PND90"
+
 sessions.tsv included
 
 -   [ ] Brief overview of the tasks in the experiment
 
-Anatomy and diffusion scans in vivo followed by BOLD rsfMRI to locate synaptic pathology in C3ar1tm1Cge/tm1Cge mouse model (Humbles et al. 2000)
+Anatomy and diffusion scans in vivo followed by BOLD rsfMRI to locate synaptic pathology in C3ar1tm1Cge/tm1Cge mouse model first reported in Humbles et al. (2000) Nature (https://doi.org/10.1038/35023175)
 
 -   [ ] Description of the contents of the dataset
 
@@ -28,7 +27,7 @@ C3ar1+/+ (wild type) N = 35, 17 males and 18 females; C3ar1tm1Cge/tm1Cge N = 34,
 
 ## Methods
 
-See preprint doi: https://doi.org/10.1101/2025.04.24.650541
+See our paper: https://doi.org/10.1093/braincomms/fcaf422
 
 ### Subjects
 
@@ -45,4 +44,7 @@ Mice were imaged using a Bruker BioSpec 9.4 T scanner with an 86-mm volume reson
 ### Experimental location
 
 King's College London, BRAIN Centre
+Key BRAIN Centre contacts: 
+Diana Cash (Director): diana.cash@kcl.ac.uk
+Eugene Kim (Chief physicist): eugene.kim@kcl.ac.uk
 
